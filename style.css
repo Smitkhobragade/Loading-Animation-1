@@ -24,7 +24,6 @@ body{
   box-shadow: 0 8px 0 #ccc,
               inset 0 8px 0 #ccc;
   box-sizing: border-box;
-  /* border-radius: 50%; */
   animation: animate 3.2s ease-in-out infinite;
 }
 
